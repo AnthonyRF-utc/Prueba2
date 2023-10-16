@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documentos\Programacion 2\MetodosFunciones1\MetodosFunciones1\bin\Debug\MetodosFunciones1.exe.config
+C:\Users\antho\OneDrive\Documentos\Programacion 2\MetodosFunciones1\MetodosFunciones1\bin\Debug\MetodosFunciones1.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\MetodosFunciones1\MetodosFunciones1\bin\Debug\MetodosFunciones1.pdb
+C:\Users\antho\OneDrive\Documentos\Programacion 2\MetodosFunciones1\MetodosFunciones1\obj\Debug\MetodosFunciones1.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\MetodosFunciones1\MetodosFunciones1\obj\Debug\MetodosFunciones1.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\MetodosFunciones1\MetodosFunciones1\obj\Debug\MetodosFunciones1.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\MetodosFunciones1\MetodosFunciones1\obj\Debug\MetodosFunciones1.pdb
