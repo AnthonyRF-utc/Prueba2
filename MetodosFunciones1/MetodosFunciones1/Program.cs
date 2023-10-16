@@ -32,7 +32,7 @@ namespace MetodosFunciones1
 
         static void Aguinaldo(int mes, float salario, string codigo)
         {
-            Console.WriteLine($"Calcule el Aguinaldo total");
+            Console.WriteLine($"Calcule el Aguinaldo total*******");
         }
 
         static float CalculoAguinaldo(int mes, float salario, string codigo,)
